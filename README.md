@@ -2,9 +2,9 @@
 
 ### Features
 
-✅ Smooth Parallax Effect
-✅ Automatic & Manual Navigation
-✅ Responsive UI
+✅ Smooth Parallax Effect <br>
+✅ Automatic & Manual Navigation <br>
+✅ Responsive UI <br>
 
 ### Tech Stack
 
@@ -16,4 +16,4 @@
 
 - **Netlify:** For hosting the frontend.
 
-### Live Demo : 🔗 [Live Preview] ()
+### Live Demo : 🔗 [Live Preview] (https://carboncrunchh.netlify.app/)
